@@ -1,4 +1,11 @@
-+++ title = "How to survive the dark lord" [extra] author = "Harry Potter" institution = "Ministry of Magic" author_url = "https://github.com/onevcat/Hedwig" video = "https://www.youtube.com/watch?v=VyHV0BRtdxo" +++
++++ 
+title = "How to survive the dark lord" 
+[extra] 
+author = "Harry Potter" 
+institution = "Ministry of Magic" 
+author_url = "https://github.com/onevcat/Hedwig" 
+video = "https://www.youtube.com/watch?v=VyHV0BRtdxo" 
++++
 
 Surviving the dark lord is not easy. This talk will give you some tips.
 
