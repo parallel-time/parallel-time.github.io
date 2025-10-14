@@ -27,7 +27,7 @@ The program will combine invited talks, panel debates, and contributed spotlight
     text = [
         ["Xavier Gonzalez","Stanford University"],
         ["Yutong Bai","UC Berkeley"],
-        ["Adrien Corenflos", "University of Warwick],
+        ["Adrien Corenflos", "University of Warwick"],
         ["Mónika Farsang","Vienna University of Technology"],
         ["Leo Kozachkov", "Brown University"],
         ["Korbinian Pöppel", "Johannes Kepler University Linz"],
