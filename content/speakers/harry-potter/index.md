@@ -1,5 +1,6 @@
 +++
 title = "How to survive the dark lord" 
+date = "2025-07-31"
 [extra] 
 author = "Harry Potter"
 image = "harry-potter.jpeg" 
