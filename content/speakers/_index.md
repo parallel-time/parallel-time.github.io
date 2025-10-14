@@ -1,7 +1,7 @@
 +++
 title = "Invited Speakers"
 page_template = "item.html"
-sort_by = "name"
+sort_by = "slug"
 [extra]
 list_page_limit = 100
 +++
