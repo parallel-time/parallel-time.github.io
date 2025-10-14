@@ -1,7 +1,8 @@
 +++
 title = "How to survive the dark lord" 
 [extra] 
-author = "Harry Potter" 
+author = "Harry Potter"
+image = "harry-potter.jpeg" 
 institution = "Ministry of Magic" 
 author_url = "https://github.com/onevcat/Hedwig" 
 video = "https://www.youtube.com/watch?v=VyHV0BRtdxo" 
