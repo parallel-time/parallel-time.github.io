@@ -10,7 +10,7 @@ highlight_code = false
 smart_punctuation = true
 
 [extra]
-title = {tagline = "ICLR 2026 Workshop on", title = "The Promises and Perils of Parallelizing Sequential Computation", subtitles = [""], url = true}
+title = {tagline = "ICML 2026 Workshop on", title = "The Promises and Perils of Parallelizing Sequential Computation", subtitles = [""], url = true}
 banner = {extension = "svg", size = "fit-height", fade = true}
 buttons = [{name = "Registration", url = "/registration"}, {name="Instructions", url="/instructions"}, {name="Programme", url="programme"}, {name="About", url="/about"}]
 header_pages = [{name = "Home", url = "/#home"},{name = "Programme", url = "/#programme"}, {name = "Registration", url = "/registration"}, {name="Instructions", url="/instructions"}]
