@@ -1,0 +1,11 @@
++++
+title = "TBA"
+weight = 7
+date = "2025-01-03"
+[extra]
+author = "Songlin Yang"
+institution = "Thinking Machines"
+author_url = "https://sustcsonglin.github.io/"
++++
+
+Songlin Yang is a member of the technical staff at Thinking Machines. She has parallelized transformer alternatives such as DeltaNet.
