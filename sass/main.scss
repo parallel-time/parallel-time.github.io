@@ -10,3 +10,31 @@ $color-link-hover: lighten;
 #home {
     text-wrap: wrap !important;
 }
+
+// Schedule table styling
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+
+    th {
+        background-color: $color-primary;
+        color: white;
+        text-align: left;
+        padding: 0.6em 1em;
+        font-weight: 600;
+    }
+
+    td {
+        padding: 0.5em 1em;
+        border-bottom: 1px solid #e0e0e0;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f8f9fa;
+    }
+
+    tr:hover {
+        background-color: #eef1f7;
+    }
+}

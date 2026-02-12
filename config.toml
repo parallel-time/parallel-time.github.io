@@ -6,11 +6,10 @@ minify_html = true
 theme = "academic-workshop"
 
 [markdown]
-highlight_code = false
 smart_punctuation = true
 
 [extra]
-title = {tagline = "ICML 2026 Workshop on", title = "Parallelizing \"Inherently Sequential\" Computation", subtitles = [""], url = true}
+title = {tagline = "ICML 2026 Workshop on", title = "Parallelizing \"Inherently Sequential\" Computation", subtitles = [], url = true}
 banner = {extension = "svg", size = "fit-height", fade = true}
-buttons = [{name = "Registration", url = "/registration"}, {name="Instructions", url="/instructions"}, {name="Programme", url="programme"}, {name="About", url="/about"}]
-header_pages = [{name = "Home", url = "/#home"},{name = "Programme", url = "/#programme"}, {name = "Registration", url = "/registration"}, {name="Instructions", url="/instructions"}]
+buttons = [{name = "Call for Papers", url = "/papers"}, {name="Programme", url="/programme"}, {name="Registration", url = "/registration"}, {name="About", url="/about"}]
+header_pages = [{name = "Home", url = "/#home"}, {name = "Call for Papers", url = "/papers"}, {name = "Programme", url = "/programme"}, {name = "Registration", url = "/registration"}, {name="About", url="/about"}]
