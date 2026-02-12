@@ -1,15 +1,15 @@
 +++
-title = "Workshop on The Promises and Perils of Parallelizing Sequential Computation"
+title = "Workshop on Parallelizing \"Inherently Sequential\" Computation"
 +++
 
 
 # Abstract
 
-Parallel hardware has reshaped the algorithmic landscape of AI/ML, motivating a surge of techniques that parallelize computations previously assumed to be "inherently sequential". At the same time, compelling evidence suggests limits to parallelizability for some important tasks, prompting complementary advances in hardware-aware optimization of sequential algorithms and renewed interest in architectures where sequential computation is a first-class primitive. 
-
-This workshop will convene researchers across many fields including probabilistic modeling, deep generative modeling, and deep sequence modeling to (i) establish a shared vocabulary connecting parallelization strategies across fields, (ii) distill best practices for implementing and profiling these methods on modern accelerators, (iii) formalize the definition of "inherently sequential", and (iv) clarify where parallel vs. sequential computation will matter most for future AI systems. 
-
-The program will combine invited talks, panel debates, and contributed spotlights/posters.
+Evaluating recurrent neural networks, generating from diffusion models, and sampling via Markov chain Monte Carlo were all believed to be "inherently sequential"---a fundamental bottleneck in the age of massively parallel hardware.
+Remarkably, researchers in sequential, generative, and probabilistic modeling have independently converged on similar algorithmic breakthroughs to parallelize these processes, unlocking order-of-magnitude speedups.
+Yet, because these communities rarely speak the same language, these best practices remain siloed, and the full potential of these techniques is far from realized.
+This workshop breaks down these disciplinary walls.
+We will bring together researchers from these disparate disciplines for concrete discussions about shared techniques, open problems, and a path toward a unified algorithmic toolkit.
 
 {{ new_block() }}
 
@@ -28,21 +28,21 @@ The program will combine invited talks, panel debates, and contributed spotlight
         ["Xavier Gonzalez","Stanford University"],
         ["Yutong Bai","UC Berkeley"],
         ["Adrien Corenflos", "University of Warwick"],
-        ["Mónika Farsang","Vienna University of Technology"],
+        ["Mónika Farsang","TU Wien"],
         ["Leo Kozachkov", "Brown University"],
-        ["Korbinian Pöppel", "Johannes Kepler University Linz"],
+        ["Korbinian Pöppel", "ELLIS Institute Tübingen"],
         ["David M. Zoltowski", "Stanford University"],
         ["Scott W. Linderman", "Stanford University"],
     ],
     urls = [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "https://xaviergonzalez.github.io/",
+        "https://yutongbai.com/",
+        "https://adriencorenflos.github.io/",
+        "https://monifarsang.github.io/",
+        "https://kozleo.github.io/",
+        "https://korbi.ai/",
+        "https://www.davidzoltowski.com/",
+        "https://web.stanford.edu/~swl1/",
     ],
     image_dir = "organizers") }}
 

@@ -1,18 +1,17 @@
 +++
-title = "Workshop on The Promises and Perils of Parallelizing Sequential Computation"
+title = "Workshop on Parallelizing \"Inherently Sequential\" Computation"
 +++
 
 # Instructions
 
 ## Submission
 
-TODO
+Details on paper submissions coming soon.
 
-## Template 
+## Template
 
-TODO
+Details on the submission template coming soon.
 
 ## Contact
 
-For any questions, ideas, or suggested speakers, please feel free to contact the organizers.
-TODO: specific email
+For any questions, ideas, or suggested speakers, please feel free to contact the organizers at [xavier18@stanford.edu](mailto:xavier18@stanford.edu) or [scott.linderman@stanford.edu](mailto:scott.linderman@stanford.edu).
