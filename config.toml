@@ -11,5 +11,5 @@ smart_punctuation = true
 [extra]
 title = {tagline = "ICML 2026 Workshop on", title = "Parallelizing \"Inherently Sequential\" Computation", subtitles = [], url = true}
 banner = {extension = "svg", size = "fit-height", fade = true}
-buttons = [{name = "Call for Papers", url = "/papers"}, {name="Programme", url="/programme"}, {name="Registration", url = "/registration"}, {name="About", url="/about"}]
-header_pages = [{name = "Home", url = "/#home"}, {name = "Call for Papers", url = "/papers"}, {name = "Programme", url = "/programme"}, {name = "Registration", url = "/registration"}, {name="About", url="/about"}]
+buttons = [{name = "Speakers", url = "/speakers"}, {name = "Call for Papers", url = "/papers"}, {name="Programme", url="/programme"}, {name="Registration", url = "/registration"}, {name="Organizers", url="/organizers"}]
+header_pages = [{name = "Home", url = "/#home"}, {name = "Speakers", url = "/speakers"}, {name = "Call for Papers", url = "/papers"}, {name = "Programme", url = "/programme"}, {name = "Registration", url = "/registration"}, {name="Organizers", url="/organizers"}]
